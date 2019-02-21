@@ -12,8 +12,8 @@ or second hand ranks higher, and which one in turn wins.
 rajee ganesan - *initial work* - cs11wki - rganesan@ucsd.edu
 
 # acknowledgements
-professor anna zaitsev & cse 11 team for starter code & files
-my dad for moral support
-tutors on piazza for various questions in coding process
-teaching assistants during discussion sessions
-wikipedia for teaching me poker
+professor anna zaitsev & cse 11 team for starter code & files.
+my dad for moral support.
+tutors on piazza for various questions in coding process.
+teaching assistants during discussion sessions, and
+wikipedia for teaching me poker.
